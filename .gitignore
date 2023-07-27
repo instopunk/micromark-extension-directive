@@ -3,6 +3,6 @@
 *.log
 coverage/
 node_modules/
-/index.js
 yarn.lock
 !dev/index.d.ts
+!/index.d.ts
